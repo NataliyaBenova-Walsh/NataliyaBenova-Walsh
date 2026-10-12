@@ -16,8 +16,7 @@ Currently working on AI-driven products at **SemantifAI**.
 | --- | --- | --- |
 | [**northstar-ui**](https://github.com/NataliyaBenova-Walsh/northstar-ui) · [live Storybook](https://nataliyabenova-walsh.github.io/northstar-ui/) | Component library with accessible, schema-validated forms, documented and tested in Storybook | React 19, TypeScript, Tailwind v4, Storybook |
 | [**my-personal-website**](https://github.com/NataliyaBenova-Walsh/my-personal-website) · [live](https://my-personal-website-omega-seven.vercel.app/) | My portfolio site | React, Vite |
-| [**market-place**](https://github.com/NataliyaBenova-Walsh/market-place) | Marketplace application | Angular, TypeScript |
-| [**react-stripe**](https://github.com/NataliyaBenova-Walsh/react-stripe) | Stripe payment component | React |
+| [**bageti**](https://github.com/NataliyaBenova-Walsh/bageti) | Website for a bakery: products, menu, locations, and contact | HTML, CSS |
 
 ### 💼 Professional work
 
