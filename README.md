@@ -8,7 +8,7 @@ Currently working on AI-driven products at **SemantifAI**.
 ### 🛠 Tech stack
 
 **Daily:** JavaScript · TypeScript · React · Next.js · Tailwind CSS · shadcn/ui · HTML & CSS · Git<br>
-**Also:** React Native · Expo · Storybook · react-hook-form · zod · Vite · WebSocket · WordPress · Webflow · Node.js · MongoDB · Angular
+**Also:** React Native · Expo · Storybook · Playwright · REST APIs · CI/CD · react-hook-form · zod · Vite · WebSocket · WordPress · Webflow · Node.js · MongoDB · Angular
 
 ### 📌 Featured projects
 
@@ -22,7 +22,7 @@ Currently working on AI-driven products at **SemantifAI**.
 
 Most of my professional code lives in private repositories. Highlights:
 
-- **[AMA Coach](https://app.amacoach.ai/):** leading the frontend of an AI coaching app, including a WebSocket integration for realtime AI conversations (React, TypeScript, Tailwind, shadcn/ui)
+- **[AMA Coach](https://app.amacoach.ai/):** AI-powered learning platform serving 4,000+ users. Owned the frontend architecture, built realtime AI chat over WebSockets, and created interfaces for students, teachers, parents, affiliates, and admins (React, TypeScript, Tailwind, shadcn/ui)
 - **AMA Coach mobile app:** iOS and Android app with realtime lesson chat over WebSocket, exams, and vocabulary drills (React Native, Expo, NativeWind)
 - **Financial management SaaS platform:** frontend for a CFO-as-a-service and accounting product, with a financial dashboard, performance analysis charts, an AI financial advisor chat, data sync, mobile views, and statement export to Excel (React 19, TypeScript, Tailwind, shadcn/ui, Zustand, Recharts)
 - **[SemantifAI](https://semantif.ai/):** designed and built the marketing site for an AI product studio (Next.js, Tailwind)
@@ -31,4 +31,4 @@ Most of my professional code lives in private repositories. Highlights:
 
 ### 🌍 Languages
 
-English (fluent) · Bulgarian (native) · Swedish (intermediate)
+English (fluent) · Bulgarian (native) · Swedish (professional working)
