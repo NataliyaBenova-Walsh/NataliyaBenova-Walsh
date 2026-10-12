@@ -24,6 +24,7 @@ Most of my professional code lives in private repositories. Highlights:
 
 - **[AMA Coach](https://app.amacoach.ai/):** leading the frontend of an AI coaching app, including a WebSocket integration for realtime AI conversations (React, TypeScript, Tailwind, shadcn/ui)
 - **AMA Coach mobile app:** iOS and Android app with realtime lesson chat over WebSocket, exams, and vocabulary drills (React Native, Expo, NativeWind)
+- **Financial management SaaS platform:** frontend for a CFO-as-a-service and accounting product, with a financial dashboard, performance analysis charts, an AI financial advisor chat, data sync, mobile views, and statement export to Excel (React 19, TypeScript, Tailwind, shadcn/ui, Zustand, Recharts)
 - **[SemantifAI](https://semantif.ai/):** designed and built the marketing site for an AI product studio (Next.js, Tailwind)
 - **MyHACCP:** web app for creating and monitoring HACCP food-safety plans (React, TypeScript)
 - **Client websites:** redesigns, multilingual support, an AI chatbot teaching assistant, and ongoing maintenance
