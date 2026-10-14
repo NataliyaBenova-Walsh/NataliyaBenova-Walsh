@@ -14,9 +14,9 @@ Currently working on AI-driven products at **SemantifAI**.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**bageti**](https://github.com/NataliyaBenova-Walsh/bageti) · [live app](https://bageti.vercel.app) · [API docs](https://bageti.vercel.app/api/docs/) | Full-stack ordering app for a fictional Swedish bakery: menu, cart and pickup checkout, plus a staff admin panel with role-based access | React 19, TypeScript, Tailwind, Express, Prisma, PostgreSQL, Vitest, Playwright |
 | [**northstar-ui**](https://github.com/NataliyaBenova-Walsh/northstar-ui) · [live Storybook](https://nataliyabenova-walsh.github.io/northstar-ui/) | Component library with accessible, schema-validated forms, documented and tested in Storybook | React 19, TypeScript, Tailwind v4, Storybook |
 | [**my-personal-website**](https://github.com/NataliyaBenova-Walsh/my-personal-website) · [live](https://my-personal-website-omega-seven.vercel.app/) | My portfolio site | React, Vite |
-| [**bageti**](https://github.com/NataliyaBenova-Walsh/bageti) · [live](https://nataliyabenova-walsh.github.io/bageti/) | Website for a bakery: products, menu, locations, and contact | HTML, CSS |
 
 ### 💼 Professional work
 
